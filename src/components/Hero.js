@@ -34,13 +34,17 @@ const Hero = () => {
         <h1 className="text-4xl md:text-5xl font-bold mb-3 text-white">
           Hi, I’m <span className="text-blue-400">Mohd Faizan Khan</span>
         </h1>
-        <p className="text-gray-400 text-lg max-w-lg">
-          A passionate web developer who loves building beautiful, interactive,
-          and responsive websites.
-        </p>
-        <button className="mt-6 px-6 py-3 bg-blue-500/90 hover:bg-blue-600 rounded-full text-white font-semibold shadow-lg shadow-blue-500/20 transition-all">
-          View My Work
-        </button>
+        <p className="text-gray-300 max-w-xl mx-auto mb-8">
+  A passionate web developer who loves building beautiful, interactive, and responsive websites.
+</p>
+
+<a
+  href="#projects"
+  className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-full shadow-lg transition duration-300"
+>
+  View My Work
+</a>
+
       </motion.div>
     </section>
   );
