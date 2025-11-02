@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faizan-portfolio/static/css/main.b04e3a78.css",
+    "main.js": "/faizan-portfolio/static/js/main.90032380.js",
+    "static/js/453.c1c43803.chunk.js": "/faizan-portfolio/static/js/453.c1c43803.chunk.js",
+    "static/media/profile.jpg": "/faizan-portfolio/static/media/profile.21b2840cb5ae8b3d1938.jpg",
+    "index.html": "/faizan-portfolio/index.html",
+    "main.b04e3a78.css.map": "/faizan-portfolio/static/css/main.b04e3a78.css.map",
+    "main.90032380.js.map": "/faizan-portfolio/static/js/main.90032380.js.map",
+    "453.c1c43803.chunk.js.map": "/faizan-portfolio/static/js/453.c1c43803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04e3a78.css",
+    "static/js/main.90032380.js"
+  ]
+}
