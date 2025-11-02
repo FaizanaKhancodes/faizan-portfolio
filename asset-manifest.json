@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/faizan-portfolio/static/css/main.bd9ae2f8.css",
-    "main.js": "/faizan-portfolio/static/js/main.afcce0c9.js",
-    "static/js/453.c1c43803.chunk.js": "/faizan-portfolio/static/js/453.c1c43803.chunk.js",
+    "main.js": "/faizan-portfolio/static/js/main.c320a3f8.js",
     "static/media/profile.jpg": "/faizan-portfolio/static/media/profile.21b2840cb5ae8b3d1938.jpg",
     "index.html": "/faizan-portfolio/index.html",
     "main.bd9ae2f8.css.map": "/faizan-portfolio/static/css/main.bd9ae2f8.css.map",
-    "main.afcce0c9.js.map": "/faizan-portfolio/static/js/main.afcce0c9.js.map",
-    "453.c1c43803.chunk.js.map": "/faizan-portfolio/static/js/453.c1c43803.chunk.js.map"
+    "main.c320a3f8.js.map": "/faizan-portfolio/static/js/main.c320a3f8.js.map"
   },
   "entrypoints": [
     "static/css/main.bd9ae2f8.css",
-    "static/js/main.afcce0c9.js"
+    "static/js/main.c320a3f8.js"
   ]
 }
